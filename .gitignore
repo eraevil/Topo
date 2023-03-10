@@ -1,0 +1,5 @@
+# 忽略一些格式的数据，不上传git
+*.log
+*.dxf
+/vendor
+/.idea
